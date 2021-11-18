@@ -1,5 +1,5 @@
 import styles from "../styles/ChatInput.module.scss";
-import { FormControl, Button, Form, Row, Col, InputGroup } from "react-bootstrap";
+import { Button, Form, Row, Col } from "react-bootstrap";
 
 export default function ChatInput() {
     return (
