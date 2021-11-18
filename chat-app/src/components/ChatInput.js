@@ -12,9 +12,11 @@ export default function ChatInput() {
                         </Form.Label>
                         <Form.Control
                             as="textarea"
+                            rows="3"
                             className="mt-4 mx-3"
                             id="inlineFormInput"
                             placeholder="Message"
+                            style={{resize: "none"}}
                         />
                     </Col>
                     <Col xs={1}>

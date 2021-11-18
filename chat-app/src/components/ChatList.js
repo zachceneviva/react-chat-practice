@@ -13,7 +13,7 @@ export default function ChatList () {
                     <p>Last Messaged 11/15/21</p>
                 </div>
             </div>
-            <div className={styles.chatCard}>
+            <div className={styles.activeChatCard}>
                 <div className={styles.chatUserImage}>
                     <img src="https://iupac.org/wp-content/uploads/2018/05/default-avatar.png" alt="user" />
                 </div>
